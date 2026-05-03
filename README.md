@@ -1,6 +1,7 @@
 # AI Video Watermark Remover - Product Requirements Document (PRD)
 
-> **⚠️ WARNING:** For testing and regular usage, **always add short videos which are less than 1MB.**
+> **⚠️ WARNING:** For testing and regular usage, **always add short videos which are less than 10MB.**
+> > **⚠️ WARNING:** create a **uploads directory** before using the code.**
 
 ---
 
