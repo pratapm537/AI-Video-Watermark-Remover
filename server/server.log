@@ -1,0 +1,18 @@
+
+> server@1.0.0 dev
+> node server.js
+
+
+========================================
+🚀 AI Video Backend running on port 3001
+   Waiting for video processing requests...
+========================================
+
+
+--- RUNNING FFMPEG COMMAND ---
+ffmpeg -i E:\Excel (Desktop)\EXCEL WORK OF ST\ASSIGNEMENT\StoryWeaver Audio Studio Website\AI Video Watermark Remover\server\uploads\input-b139d86dc70e0f63.mp4 -vf "delogo=x=1191:y=209:w=716:h=795,scale=1920:-2:flags=lanczos" -c:v libx264 -preset fast -crf 18 -pix_fmt yuv420p -c:a copy E:\Excel (Desktop)\EXCEL WORK OF ST\ASSIGNEMENT\StoryWeaver Audio Studio Website\AI Video Watermark Remover\server\uploads\output-13064af5ac4fb29d.mp4
+
+Processing complete. Sending file to client...
+✅ File successfully downloaded by client.
+🗑️  Deleted uploaded source video.
+🗑️  Deleted generated output video.
