@@ -16,3 +16,23 @@ Processing complete. Sending file to client...
 ✅ File successfully downloaded by client.
 🗑️  Deleted uploaded source video.
 🗑️  Deleted generated output video.
+
+--- RUNNING FFMPEG COMMAND ---
+ffmpeg -i E:\Excel (Desktop)\EXCEL WORK OF ST\ASSIGNEMENT\StoryWeaver Audio Studio Website\AI Video Watermark Remover\server\uploads\input-502761802666f48f.mp4 -vf "delogo=x=490:y=307:w=833:h=773,scale=1920:-2:flags=lanczos" -c:v libx264 -preset fast -crf 18 -pix_fmt yuv420p -c:a copy E:\Excel (Desktop)\EXCEL WORK OF ST\ASSIGNEMENT\StoryWeaver Audio Studio Website\AI Video Watermark Remover\server\uploads\output-f6e040483c24585d.mp4
+
+
+--- RUNNING FFMPEG COMMAND ---
+ffmpeg -i E:\Excel (Desktop)\EXCEL WORK OF ST\ASSIGNEMENT\StoryWeaver Audio Studio Website\AI Video Watermark Remover\server\uploads\input-0b9deb1455044952.mp4 -vf "delogo=x=1127:y=101:w=902:h=967,scale=1920:-2:flags=lanczos" -c:v libx264 -preset fast -crf 18 -pix_fmt yuv420p -c:a copy E:\Excel (Desktop)\EXCEL WORK OF ST\ASSIGNEMENT\StoryWeaver Audio Studio Website\AI Video Watermark Remover\server\uploads\output-64e2f4c1145c969e.mp4
+
+Processing complete. Sending file to client...
+✅ File successfully downloaded by client.
+🗑️  Deleted uploaded source video.
+🗑️  Deleted generated output video.
+
+--- RUNNING FFMPEG COMMAND ---
+ffmpeg -i E:\Excel (Desktop)\EXCEL WORK OF ST\ASSIGNEMENT\StoryWeaver Audio Studio Website\AI Video Watermark Remover\server\uploads\input-83a5ca1bedc8e5e2.mp4 -vf "delogo=x=650:y=201:w=326:h=286,scale=1920:-2:flags=lanczos" -c:v libx264 -preset fast -crf 18 -pix_fmt yuv420p -c:a copy E:\Excel (Desktop)\EXCEL WORK OF ST\ASSIGNEMENT\StoryWeaver Audio Studio Website\AI Video Watermark Remover\server\uploads\output-0fe0e0c2a9249042.mp4
+
+Processing complete. Sending file to client...
+✅ File successfully downloaded by client.
+🗑️  Deleted uploaded source video.
+🗑️  Deleted generated output video.
